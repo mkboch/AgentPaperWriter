@@ -1,8 +1,8 @@
 # AgentPaperWriter
 
 <!--LINK-->
-**Live demo:** https://intend-frog-facilities-scroll.trycloudflare.com  
-status `online` · updated 2026-09-09 22:10 UTC
+**Live demo:** https://example-test-hostname.trycloudflare.com  
+status `unreachable` · updated 2026-09-09 22:19 UTC
 
 The link needs an access key appended as `?k=...`; it is not published here.
 <!--/LINK-->
