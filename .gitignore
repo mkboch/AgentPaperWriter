@@ -1,0 +1,5 @@
+# This repository publishes ONLY the live demo link.
+# The implementation is not distributed here.
+*
+!.gitignore
+!README.md
